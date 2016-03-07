@@ -1,0 +1,5 @@
+{
+    "commands": [
+        "*.elm : elm make {absPath}{filename} --output {absPath}{name}.js"
+    ]
+}
